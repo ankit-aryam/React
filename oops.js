@@ -43,7 +43,7 @@ class livingOrganism{
 
 class Bird {
         eats = true;
-        printHabit = 
+        printHabit = false;
     
 }
 
